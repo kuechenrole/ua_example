@@ -1,0 +1,6 @@
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 11881878.0 ON prod-0304 CANCELLED AT 2021-08-24T12:02:39 DUE TO TIME LIMIT ***
+srun: got SIGCONT
+srun: forcing job termination
+srun: error: prod-0304: task 0: Terminated
+srun: Terminating job step 11881878.0
